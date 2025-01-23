@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Anamitra Musib 41884c79 </title>
+<title> Shibansu Mandal 41884c79 </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
